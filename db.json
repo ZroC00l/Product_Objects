@@ -11,7 +11,7 @@
     "content": "Exclusive Naruto Shippuden fan wallpaper with high resolution.Self adhesive peel and stick wallpaper, easy paste and remove.Unit size: 2.52ft x 2.3ft (77cm x 70cm), covers more than 58 Square Feet.",
     "typeVariant": "D",
     "colorVariant": "5",
-    "imageUrl": "https://pixabay.com/vectors/character-anime-manga-cartoon-5468416/"
+    "imageUrl": "./images/naruto.svg"
   },
   {
     "id": 202,
@@ -24,7 +24,7 @@
     "review": 67,
     "typeVariant": "A",
     "colorVariant": "4",
-    "imageUrl": "https://pixabay.com/photos/minion-funny-toys-children-figure-972908/"
+    "imageUrl": "./images/minion.jpg"
   },
   {
     "id": 203,
@@ -37,7 +37,7 @@
     "review": 116,
     "typeVariant": "E",
     "colorVariant": "2",
-    "imageUrl": "https://pixabay.com/photos/batman-lego-toys-kids-child-play-1070422/"
+    "imageUrl": "./images/batman.jpg"
   },
   {
     "id": 204,
@@ -50,7 +50,7 @@
     "review": 78,
     "typeVariant": "D",
     "colorVariant": "3",
-    "imageUrl": "https://pixabay.com/photos/ps4-playstation-playstation-4-2326616/"
+    "imageUrl": "./images/playStation.jpg"
   },
   {
     "id": 205,
@@ -63,7 +63,7 @@
     "review": 156,
     "typeVariant": "A",
     "colorVariant": "2",
-    "imageUrl": "https://pixabay.com/photos/xbox-game-console-games-console-4142757/"
+    "imageUrl": "./images/xbox.jpg"
   }
  ]
 }
