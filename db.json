@@ -42,7 +42,7 @@
   {
     "id": 204,
     "name": "PlayStation 4",
-    "price": 280,
+    "price": 6500,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 3.11,
@@ -55,7 +55,7 @@
   {
     "id": 205,
     "name": "Xbox One",
-    "price": 138,
+    "price": 5999,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 2.42,
