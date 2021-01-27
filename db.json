@@ -1,5 +1,6 @@
 
-[
+{
+  "products":[
   {
     "id": 201,
     "name": "Naruto Shippuden Fan Wallpaper",
@@ -64,4 +65,5 @@
     "colorVariant": "2",
     "imageUrl": "http://placeimg.com/645/485/tech"
   }
-]
+ ]
+}
