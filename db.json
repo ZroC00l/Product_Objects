@@ -64,6 +64,19 @@
     "typeVariant": "A",
     "colorVariant": "2",
     "imageUrl": "https://cdn.pixabay.com/photo/2019/04/20/21/16/xbox-4142756_960_720.jpg"
+  },
+    {
+    "id": 206,
+    "name": "Nintendo Game boy ",
+    "price": 725,
+    "subCategoryId": 101,
+    "categoryId": 1,
+    "rate": 2.42,
+    "content": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The first handheld in the Game Boy family",
+    "review": 156,
+    "typeVariant": "A",
+    "colorVariant": "2",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/06/26/12/01/gameboy-3499284_960_720.jpg"
   }
  ]
 }
