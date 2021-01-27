@@ -24,46 +24,46 @@
     "review": 67,
     "typeVariant": "A",
     "colorVariant": "4",
-    "imageUrl": "http://placeimg.com/642/482/tech"
+    "imageUrl": "https://pixabay.com/photos/minion-funny-toys-children-figure-972908/"
   },
   {
     "id": 203,
-    "name": "Minus",
-    "price": 295,
+    "name": "Batman Lego",
+    "price": 110,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 0.91,
-    "content": "Quod reiciendis aspernatur ipsum cum debitis. Quisquam tempore doloremque quo ipsum ipsa tempora. Dignissimos qui ex ad facilis. Quo sequi recusandae eveniet autem ducimus nam.",
+    "content": "Fight crime in style with the LEGO Mini Ultimate Batmobile - 30526 from the action packed and hilarious LEGO Batman movie. With just 84 pieces, you can build a movie-authentic Batmobile with tons of authentic detail",
     "review": 116,
     "typeVariant": "E",
     "colorVariant": "2",
-    "imageUrl": "http://placeimg.com/643/483/tech"
+    "imageUrl": "https://pixabay.com/photos/batman-lego-toys-kids-child-play-1070422/"
   },
   {
     "id": 204,
-    "name": "Qui",
+    "name": "PlayStation 4",
     "price": 280,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 3.11,
-    "content": "Occaecati dolore assumenda facilis error quaerat. Rem harum alias cum eum quam corporis. Esse numquam vero facilis labore.",
+    "content": "This great-value bundle includes a Jet Black 500GB PlayStation 4 console, a matching Jet Black DUALSHOCK 4 wireless controller and three huge critically acclaimed games.",
     "review": 78,
     "typeVariant": "D",
     "colorVariant": "3",
-    "imageUrl": "http://placeimg.com/644/484/tech"
+    "imageUrl": "https://pixabay.com/photos/ps4-playstation-playstation-4-2326616/"
   },
   {
     "id": 205,
-    "name": "Blanditiis",
+    "name": "Xbox One",
     "price": 138,
     "subCategoryId": 101,
     "categoryId": 1,
     "rate": 2.42,
-    "content": "Reiciendis dolorum debitis occaecati assumenda totam ex. Ullam iure dolore excepturi unde in libero modi molestiae. Voluptate labore aliquid dignissimos omnis cum eligendi id. Sint repudiandae magni cum dolore itaque esse porro.",
+    "content": "Play the greatest games line-up, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colours in games and video with High Dynamic Range. It's the only console with built-in 4K Ultra HD Blu-ray and 4K video streaming including content from partners like Netflix",
     "review": 156,
     "typeVariant": "A",
     "colorVariant": "2",
-    "imageUrl": "http://placeimg.com/645/485/tech"
+    "imageUrl": "https://pixabay.com/photos/xbox-game-console-games-console-4142757/"
   }
  ]
 }
